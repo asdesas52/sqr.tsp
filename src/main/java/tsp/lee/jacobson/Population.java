@@ -1,5 +1,10 @@
 package tsp.lee.jacobson;
 
+/**
+ * Population représente la population d'une ville
+ * @author Anass El hafiane
+ */
+
 public class Population {
 
     // Holds population of tours

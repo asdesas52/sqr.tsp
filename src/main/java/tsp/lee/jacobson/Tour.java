@@ -1,5 +1,10 @@
 package tsp.lee.jacobson;
 
+/**
+ * Tour représente une execution de l'algorithme étudié
+ * @author Anass El hafiane
+ */
+
 import java.util.ArrayList;
 import java.util.Collections;
 

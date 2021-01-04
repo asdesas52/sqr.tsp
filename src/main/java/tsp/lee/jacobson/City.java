@@ -1,5 +1,10 @@
 package tsp.lee.jacobson;
 
+/**
+ * City représente une ville
+ * @author Anass El hafiane
+ */
+
 public class City {
     int x;
     int y;
